@@ -106,11 +106,11 @@ const App = () => {
           <Image className="nav-img-cart" src="https://icon-library.com/images/white-shopping-cart-icon/white-shopping-cart-icon-9.jpg" alt="cart" />
         </div>
         <div className="cart-container">
-          <Cart
+          {/* <Cart
             cart={cart}
             currentStyle={currentStyle}
             product={product}
-          />
+          /> */}
         </div>
       </div>
       <h2 className="sale">AUTUMN BACK TO SCHOOL SALE ~ SAVE 15% OFF YOUR FIRST ORDER ~ USE PROMO CODE: &apos;PROTO15&apos;</h2>
